@@ -8,7 +8,6 @@ The ones digit, on the other hand, is placed in a downward direction on another 
 After the placement is completed, the user will be prompted to enter two index positions.
 
 Position A: Represents the upward direction lists.
-
 Position B: Represents the downward direction lists.
 
 For example, when the following values are entered, the lists will switch places:
